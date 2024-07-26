@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PestoTest</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_task_status">Add Task Status</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="add_title">Add Title</string>
+    <string name="status">Status</string>
+    <string name="description">Description</string>
+    <string name="task_title">Task Title</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="due_date">Due date</string>
+    <string name="developer">Developer</string>
+    <string name="assign_to_me">Assign to me</string>
+    <string name="tasks">Tasks</string>
+    <string name="task_list_is_empty">Task List Is Empty</string>
+    <string name="apply">Apply</string>
+    <string name="clear">Clear</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="dash">-</string>
+    <string name="enter_task_status_title_and_person_name">Enter Task Status, Title, OR Person Name</string>
+
+    <string name="task_reminder_channel_id" translatable="false">task_reminder_channel</string>
+    <string name="parent_task_of">Parent Task Of</string>
+    <string name="sub_task_of">Sub task Of</string>
+</resources>
